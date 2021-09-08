@@ -23,7 +23,7 @@ body {
 
 nav {
   background-color: #fff;
-  padding: 20px;
+  padding: 30px;
   width: 80px;
   display: flex;
   align-items: center;
@@ -35,7 +35,7 @@ nav {
 }
 
 nav.active {
-  width: 350px;
+  width: 400px;
 }
 
 nav ul {
@@ -84,7 +84,7 @@ nav ul a {
 }
 
 .icon .line {
-  background-color: #5290f9;
+  background-color: #1654be;
   height: 2px;
   width: 20px;
   position: absolute;
